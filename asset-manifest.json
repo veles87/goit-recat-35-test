@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goit-recat-35-test/static/css/main.a617e044.chunk.css",
+    "main.js": "/goit-recat-35-test/static/js/main.ce94b585.chunk.js",
+    "main.js.map": "/goit-recat-35-test/static/js/main.ce94b585.chunk.js.map",
+    "runtime-main.js": "/goit-recat-35-test/static/js/runtime-main.ec79af8d.js",
+    "runtime-main.js.map": "/goit-recat-35-test/static/js/runtime-main.ec79af8d.js.map",
+    "static/js/2.2a55f579.chunk.js": "/goit-recat-35-test/static/js/2.2a55f579.chunk.js",
+    "static/js/2.2a55f579.chunk.js.map": "/goit-recat-35-test/static/js/2.2a55f579.chunk.js.map",
+    "static/js/3.297745b3.chunk.js": "/goit-recat-35-test/static/js/3.297745b3.chunk.js",
+    "static/js/3.297745b3.chunk.js.map": "/goit-recat-35-test/static/js/3.297745b3.chunk.js.map",
+    "index.html": "/goit-recat-35-test/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/goit-recat-35-test/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2a55f579.chunk.js.LICENSE.txt": "/goit-recat-35-test/static/js/2.2a55f579.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/goit-recat-35-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec79af8d.js",
+    "static/js/2.2a55f579.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ce94b585.chunk.js"
+  ]
+}
